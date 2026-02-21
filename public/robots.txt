@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ip-looker.lovable.app/sitemap.xml
